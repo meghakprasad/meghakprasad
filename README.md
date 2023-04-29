@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meghakprasad
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me meghakprasad2002@gmail.com
